@@ -30,9 +30,8 @@ int main() {
 			system("clear");
 			cout << "Please input a valid number" << endl << endl;
 		}
-		if (answer == "N") {
-			
-		}
+		if (answer == "F") {}
+		else if (answer == "C") {}
 	}
 	return 0;
 }
